@@ -7,3 +7,7 @@
 🌱 I’m currently learning 3D graphics (especially OpenGLES), Android/Kotlin, React.js.
 
 ⚡ I have been enjoying problem solving and developing, and ✨creating something!✨
+
+#### You, welcome.
+
+[![Touch](https://img.shields.io/badge/@joonas-online-green.svg)](mailto:joonas.yoon@gmail.com) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoonas-yoon%2Fhit-counter)](https://hits.seeyoufarm.com)
