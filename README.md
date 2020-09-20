@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="https://gist.github.com/joonas-yoon/eaa21da8e34a4304efaf2892299d9251/raw/bf5818e9ea50b11ed7ee4cef321359eb9a7fe24c/joona_animation_logo.gif">
+
+</div>
+
 ### _Hi,_ I'm Joonas. 👋
 
 💻 Junior Software Developer
@@ -11,5 +17,3 @@
 #### You, welcome.
 
 [![Touch](https://img.shields.io/badge/developer-@joonas-blue.svg)](mailto:joonas.yoon@gmail.com) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoonas-yoon%2Fhit-counter)](https://hits.seeyoufarm.com)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joonas-yoon&layout=compact)](https://github.com/anuraghazra/github-readme-stats) &nbsp; [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=joonas)](https://solved.ac/profile/joonas)
