@@ -18,4 +18,11 @@
 
 [![About me](https://img.shields.io/badge/Who%20Am%20I-3a4a4a?style=flat&link=https://www.joonas.io)](https://www.joonas.io) [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:joonas.yoon@gmail.com)](mailto:joonas.yoon@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joona-yoon/)](https://www.linkedin.com/in/joona-yoon/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCW_Xd7_XypcKPVvIQV8f6cA)](https://www.youtube.com/channel/UCW_Xd7_XypcKPVvIQV8f6cA) ![GitHub User's stars](https://img.shields.io/github/stars/joonas-yoon?logo=github) ![GitHub followers](https://img.shields.io/github/followers/joonas-yoon?logo=github) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoonas-yoon%2Fhit-counter)](https://hits.seeyoufarm.com) [![BOJ tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=joonas)](https://www.acmicpc.net/user/joonas)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joonas-yoon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+<summary>📊 Metrics</summary>
+
+<!-- start:Metric -->
+![Metrics](https://metrics.lecoq.io/joonas-yoon?template=classic&base.metadata=0&activity=1&isocalendar=1&languages=1&languages.ignored=html%2C%20css&isocalendar.duration=full-year&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=Asia%2FSeoul&config.animated=true&plugin_habits=yes&plugin_habits_from=200&plugin_habits_days=14)
+<!-- end:Metric -->
+
+</details>
