@@ -21,8 +21,10 @@
 <details>
 <summary>📊 Metrics</summary>
 
-<!-- start:Metric -->
-![Metrics](https://metrics.lecoq.io/joonas-yoon?template=classic&base.metadata=0&activity=1&isocalendar=1&languages=1&languages.ignored=html%2C%20css&isocalendar.duration=full-year&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=Asia%2FSeoul&config.animated=true&plugin_habits=yes&plugin_habits_from=200&plugin_habits_days=14)
-<!-- end:Metric -->
+<div align="center">
+  
+![Metrics](./metrics.svg)
+
+</div>
 
 </details>
