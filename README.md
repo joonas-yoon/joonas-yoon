@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://gist.githubusercontent.com/joonas-yoon/eaa21da8e34a4304efaf2892299d9251/raw/ac6f896609bf27855da83e22d0fc55f943595e61/joona_animation_logo.gif">
+<a href="http://joonas.io"><img src="https://gist.githubusercontent.com/joonas-yoon/eaa21da8e34a4304efaf2892299d9251/raw/ac6f896609bf27855da83e22d0fc55f943595e61/joona_animation_logo.gif" style="display:block; margin: 0 auto"></a>
 
 </div>
 
