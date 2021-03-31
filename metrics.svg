@@ -1268,7 +1268,7 @@
               <li>Use spaces for indents</li>
             
             
-              <li>Mostly push code around 20:00</li>
+              <li>Mostly push code around 18:00</li>
             
             
               <li>Mostly active on wednesday</li>
@@ -1395,7 +1395,7 @@
           
             <div class="entry">
               <span class="value">1</span>
-              <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
               18
             </div>
           
@@ -1406,7 +1406,7 @@
             </div>
           
             <div class="entry">
-              <span class="value">2</span>
+              <span class="value">1</span>
               <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
               20
             </div>
@@ -1419,7 +1419,7 @@
           
             <div class="entry">
               <span class="value">1</span>
-              <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
               22
             </div>
           
@@ -1458,14 +1458,14 @@
               </div>
             
               <div class="entry">
-                <span class="value">2</span>
+                <span class="value">1</span>
                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Wed
               </div>
             
               <div class="entry">
                 <span class="value">1</span>
-                <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Thu
               </div>
             
@@ -1477,7 +1477,7 @@
             
               <div class="entry">
                 <span class="value">1</span>
-                <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Sat
               </div>
             
@@ -3647,7 +3647,7 @@
           
             <span>These metrics do not include all private contributions, timezone Asia/Seoul</span>
           
-          <span>Last updated Wed, 31 Mar 2021 06:01:16 GMT with lowlighter/metrics@3.5.0</span>
+          <span>Last updated Wed, 31 Mar 2021 12:01:27 GMT with lowlighter/metrics@3.5.0</span>
         </footer>
       
       <div id="metrics-end"></div>
