@@ -1169,7 +1169,7 @@
           </div>
                         <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/></svg>
-            Followed by 45 users
+            Followed by 46 users
           </div>
                         <div class="field hire">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M6.75 0A1.75 1.75 0 005 1.75V3H1.75A1.75 1.75 0 000 4.75v8.5C0 14.216.784 15 1.75 15h12.5A1.75 1.75 0 0016 13.25v-8.5A1.75 1.75 0 0014.25 3H11V1.75A1.75 1.75 0 009.25 0h-2.5zM9.5 3V1.75a.25.25 0 00-.25-.25h-2.5a.25.25 0 00-.25.25V3h3zM5 4.5H1.75a.25.25 0 00-.25.25V6a2 2 0 002 2h9a2 2 0 002-2V4.75a.25.25 0 00-.25-.25H5zm-1.5 5a3.484 3.484 0 01-2-.627v4.377c0 .138.112.25.25.25h12.5a.25.25 0 00.25-.25V8.873a3.484 3.484 0 01-2 .627h-9z"/></svg>
@@ -1289,7 +1289,7 @@
                                 <div class="field ">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/></svg>
                   
-                    3.88m added, 867k removed
+                    3.87m added, 867k removed
                   
                 </div>
                             </section>
@@ -1330,14 +1330,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="374.6853805257592" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="374.6853805257592" y="0" width="26.804524296824976" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="401.4899048225841" y="0" width="19.71933133851571" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="421.2092361610998" y="0" width="16.608445344820236" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="437.81768150592" y="0" width="10.975736651969298" height="8" fill="#438eff"/>
-                    <rect mask="url(#languages-bar)" x="448.7934181578893" y="0" width="6.042045293839932" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="454.83546345172925" y="0" width="3.9026050494941327" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="458.7380685012234" y="0" width="1.2619314987765904" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="374.64504726227733" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="374.64504726227733" y="0" width="26.801638905514938" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="401.4466861677923" y="0" width="19.717208637636784" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="421.16389480542904" y="0" width="16.656174531303066" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="437.8200693367321" y="0" width="10.974555161307265" height="8" fill="#438eff"/>
+                    <rect mask="url(#languages-bar)" x="448.7946244980394" y="0" width="6.0413948937510265" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="454.83601939179044" y="0" width="3.902184950910341" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="458.7382043427008" y="0" width="1.2617956572992297" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1497,8 +1497,8 @@
               20
             </div>
                     <div class="entry">
-              <span class="value">3</span>
-              <div class="bar" style="height: 18.75px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">1</span>
+              <div class="bar" style="height: 6.25px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               21
             </div>
                     <div class="entry">
@@ -1519,32 +1519,32 @@
                     <div class="chart-bars">
                         <div class="entry">
                 <span class="value">1</span>
-                <div class="bar" style="height: 2.083333333333333px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="height: 2.272727272727273px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Sun
               </div>
                         <div class="entry">
                 <span class="value">8</span>
-                <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <div class="bar" style="height: 18.181818181818183px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Mon
               </div>
                         <div class="entry">
-                <span class="value">24</span>
+                <span class="value">22</span>
                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Tue
               </div>
                         <div class="entry">
                 <span class="value">8</span>
-                <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <div class="bar" style="height: 18.181818181818183px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Wed
               </div>
                         <div class="entry">
                 <span class="value">2</span>
-                <div class="bar" style="height: 4.166666666666666px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="height: 4.545454545454546px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Thu
               </div>
                         <div class="entry">
                 <span class="value">1</span>
-                <div class="bar" style="height: 2.083333333333333px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="height: 2.272727272727273px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Fri
               </div>
                         <div class="entry">
@@ -3697,7 +3697,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated Tue, 20 Jul 2021 09:14:36 (timezone Asia/Seoul) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Tue, 20 Jul 2021 23:13:35 (timezone Asia/Seoul) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
