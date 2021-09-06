@@ -1,7 +1,7 @@
 <div align="center">
-
-<a href="http://joonas.io"><img src="https://gist.githubusercontent.com/joonas-yoon/9748a2dcd55ece44ce23af6e87198e20/raw/033f5ecaf13e623001bddf7a19464fcb2ab55174/animate-logo.svg" style="display:block; margin: 0 auto;"></a>
-
+  <a href="http://joonas.io">
+    <img src="https://gist.githubusercontent.com/joonas-yoon/9748a2dcd55ece44ce23af6e87198e20/raw/033f5ecaf13e623001bddf7a19464fcb2ab55174/animate-logo.svg" width=512>
+  </a>
 </div>
 
 ### _Hi,_ I'm Joonas. 👋
