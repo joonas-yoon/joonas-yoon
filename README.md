@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="http://joonas.io"><img src="https://gist.githubusercontent.com/joonas-yoon/eaa21da8e34a4304efaf2892299d9251/raw/ac6f896609bf27855da83e22d0fc55f943595e61/joona_animation_logo.gif" style="display:block; margin: 0 auto"></a>
+<a href="http://joonas.io"><img src="https://gist.githubusercontent.com/joonas-yoon/9748a2dcd55ece44ce23af6e87198e20/raw/033f5ecaf13e623001bddf7a19464fcb2ab55174/animate-logo.svg" style="display:block; margin: 0 auto;"></a>
 
 </div>
 
