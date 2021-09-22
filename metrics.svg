@@ -3794,7 +3794,7 @@ known-issue: 버튼을 누른 탭만 적용되고, 실제 설정과 동기화 �
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22/09/2021, 15:01 (timezone Asia/Seoul) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 22/09/2021, 21:01 (timezone Asia/Seoul) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
