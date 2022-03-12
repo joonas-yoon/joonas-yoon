@@ -36,8 +36,15 @@ I have been enjoying problem solving and developing, and creating something!
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/joonas)
 
+
+**Latest Blog**
+<!-- feed start -->
+<!-- feed end -->
+
+
+**📊 Metrics**
 <details>
-<summary>📊 Metrics</summary>
+<summary>Click to see</summary>
 
 <div align="center">
   
