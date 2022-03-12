@@ -1,0 +1,29 @@
+name: blog
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'
+  push:
+    branches: [ master ]
+
+jobs:
+  rss:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.feed.outputs.changed }}
+      items: ${{ steps.feed.outputs.items }}
+    steps:
+      - uses: actions/checkout@v2
+      - uses: sarisia/actions-readme-feed@v1
+        id: feed
+        with:
+          url: 'https://blog.joonas.io/rss'
+          file: 'README.md'
+          timezone: 'Asia/Seoul'
+          ensure_all: true
+      - name: push to master
+        if: steps.feed.outputs.changed == true
+        id: commit
+        uses: sarisia/actions-commit@master
+        with:
+          message: "docs: update feed"
