@@ -45,3 +45,10 @@ jobs:
           plugin_topics_mode: mastered
           plugin_topics_limit: 0
           plugin_lines: yes
+
+      - uses: actions/checkout@v2
+      - uses: sarisia/actions-readme-feed@v1
+        with:
+          url: 'https://blog.joonas.io/rss'
+          file: 'README.md'
+      - uses: sarisia/actions-commit@master
