@@ -12,15 +12,29 @@ I have been enjoying problem solving and developing, and creating something!
 
 **Contact**
 
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:joonas.yoon@gmail.com)](mailto:joonas.yoon@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joona-yoon/)](https://www.linkedin.com/in/joona-yoon/)
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:joonas.yoon@gmail.com)](mailto:joonas.yoon@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joona-yoon/)](https://www.linkedin.com/in/joona-yoon/)
 
 **Socials**
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCW_Xd7_XypcKPVvIQV8f6cA)](https://www.youtube.com/channel/UCW_Xd7_XypcKPVvIQV8f6cA) ![GitHub User's stars](https://img.shields.io/github/stars/joonas-yoon?logo=github) ![GitHub followers](https://img.shields.io/github/followers/joonas-yoon?logo=github)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCW_Xd7_XypcKPVvIQV8f6cA)](https://www.youtube.com/channel/UCW_Xd7_XypcKPVvIQV8f6cA)
+[![GitHub User's stars](https://img.shields.io/github/stars/joonas-yoon?logo=github)](#)
+[![GitHub followers](https://img.shields.io/github/followers/joonas-yoon?logo=github)](#)
+[![SOF](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13677554/joona-yoon)
 
-**Algorithms**
+**Technicals**
 
-[![BOJ tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=joonas)](https://www.acmicpc.net/user/joonas) [![LeetCode user joonas-yoon](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=LeetCode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjoonas-yoon&logo=leetcode&logoColor=yellow)](https://leetcode.com/joonas-yoon/) [![BOJ ranked page](https://boj-badge.herokuapp.com/?id=joonas&query=rank+c)](https://github.com/joonas-yoon/boj-badge) [![BOJ solved](https://boj-badge.herokuapp.com/?id=joonas&query=solved+a)](https://github.com/joonas-yoon/boj-badge)
+[![react](https://img.shields.io/badge/ReactJS-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](#)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)](#)
+[![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl)](#)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+[![pytorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)](#)
+[![BOJ tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=joonas)](https://www.acmicpc.net/user/joonas)
+[![LeetCode user joonas-yoon](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=LeetCode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjoonas-yoon&logo=leetcode&logoColor=yellow)](https://leetcode.com/joonas-yoon/) 
+
+**Thanks**
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/joonas)
 
 <details>
 <summary>📊 Metrics</summary>
