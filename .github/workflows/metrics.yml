@@ -52,8 +52,9 @@ jobs:
           url: 'https://blog.joonas.io/rss'
           file: 'README.md'
       - run: |
+          ls -alR
           git config --global user.name "${{ github.actor }}"
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
-          git add .
+          git add -fN .
           git diff -- dist > git.diff
           [ -s git.diff ] && git add -f . && git commit -m "docs: update feed" && git push || echo "Skip commit"
