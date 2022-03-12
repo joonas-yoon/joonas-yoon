@@ -51,4 +51,9 @@ jobs:
         with:
           url: 'https://blog.joonas.io/rss'
           file: 'README.md'
-      - uses: sarisia/actions-commit@master
+      - run: |
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+          git add .
+          git commit -m "docs: update feed" || true
+          git push
