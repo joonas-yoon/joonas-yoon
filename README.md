@@ -37,7 +37,7 @@ I have been enjoying problem solving and developing, and creating something!
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/joonas)
 
 
-**Latest Blog**
+**Latest Blog Posts**
 <!-- feed start -->
 - Mar 13 - [[딥러닝 일지] 학습 조기 종료 (Early Stop)](https://blog.joonas.io/191)
 - Mar 09 - [[딥러닝 일지] 과적합 문제, 그리고 배치 전략 (교차 검증)](https://blog.joonas.io/190)
