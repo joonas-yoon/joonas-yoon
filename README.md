@@ -39,11 +39,11 @@ I have been enjoying problem solving and developing, and creating something!
 
 **Latest Blog Posts**
 <!-- feed start -->
+- Mar 14 - [블로그 스킨 수정](https://blog.joonas.io/194)
 - Mar 13 - [[딥러닝 일지] 다른 모델도 써보기 (Transfer Learning)](https://blog.joonas.io/192)
 - Mar 13 - [[딥러닝 일지] 학습 조기 종료 (Early Stop)](https://blog.joonas.io/191)
 - Mar 09 - [[딥러닝 일지] 과적합 문제, 그리고 배치 전략 (교차 검증)](https://blog.joonas.io/190)
 - Mar 09 - [[딥러닝 일지] 이진 분류를 위한 CNN 모델 작성 (개 vs 고양이)](https://blog.joonas.io/189)
-- Mar 07 - [[딥러닝 일지] 시작하기 - 개 vs 고양이 분류](https://blog.joonas.io/188)
 <!-- feed end -->
 
 
