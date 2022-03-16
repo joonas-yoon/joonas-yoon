@@ -25,6 +25,7 @@ I have been enjoying problem solving and developing, and creating something!
 **Technicals**
 
 [![react](https://img.shields.io/badge/ReactJS-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](#)
+[![ES6](https://img.shields.io/badge/ES6-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](#)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)](#)
 [![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl)](#)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
