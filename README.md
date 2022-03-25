@@ -40,11 +40,11 @@ I have been enjoying problem solving and developing, and creating something!
 
 **Latest Blog Posts**
 <!-- feed start -->
+- Mar 25 - [[딥러닝 일지] 데이터 늘리기 (Data Augmentation)](https://blog.joonas.io/195)
 - Mar 24 - [[딥러닝 일지] 이미지 가지고 놀기 (변환하기)](https://blog.joonas.io/193)
 - Mar 14 - [블로그 스킨 수정](https://blog.joonas.io/194)
 - Mar 13 - [[딥러닝 일지] 다른 모델도 써보기 (Transfer Learning)](https://blog.joonas.io/192)
 - Mar 13 - [[딥러닝 일지] 학습 조기 종료 (Early Stop)](https://blog.joonas.io/191)
-- Mar 09 - [[딥러닝 일지] 과적합 문제, 그리고 배치 전략 (교차 검증)](https://blog.joonas.io/190)
 <!-- feed end -->
 
 
