@@ -36,6 +36,7 @@ I have been enjoying problem solving and developing, and creating something!
 **Thanks**
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/joonas)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)](https://paypal.me/JoonaYoon)
 
 
 **Latest Blog Posts**
