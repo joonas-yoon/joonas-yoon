@@ -1,4 +1,4 @@
-[![About me](https://img.shields.io/badge/Who%20Am%20I-3a4a4a?style=flat&link=https://www.joonas.io)](https://www.joonas.io) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoonas-yoon%2Fhit-counter)](https://hits.seeyoufarm.com)
+[![About me](https://img.shields.io/badge/joonas.io-394f35?style=flat&link=https://www.joonas.io)](https://www.joonas.io) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoonas-yoon%2Fhit-counter)](https://hits.seeyoufarm.com)
 
 <div align="center">
   <a href="http://joonas.io">
@@ -10,17 +10,15 @@
 
 I have been enjoying problem solving and developing, and creating something!
 
-**Contact**
+**Socials**
 
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:joonas.yoon@gmail.com)](mailto:joonas.yoon@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joona-yoon/)](https://www.linkedin.com/in/joona-yoon/)
-
-**Socials**
-
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCW_Xd7_XypcKPVvIQV8f6cA)](https://www.youtube.com/channel/UCW_Xd7_XypcKPVvIQV8f6cA)
+[![SOF](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13677554/joona-yoon)
+[![kaggle](https://img.shields.io/badge/kaggle-20beff?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/joonasyoon)
 [![GitHub User's stars](https://img.shields.io/github/stars/joonas-yoon?logo=github)](#)
 [![GitHub followers](https://img.shields.io/github/followers/joonas-yoon?logo=github)](#)
-[![SOF](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13677554/joona-yoon)
 
 **Technicals**
 
