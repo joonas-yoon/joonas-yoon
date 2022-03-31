@@ -19,7 +19,9 @@ jobs:
         with:
           url: 'https://blog.joonas.io/rss'
           file: 'README.md'
+          locale: 'ko-KR'
           timezone: 'Asia/Seoul'
+          format: '- ${year}/${02month}/${02day} - [${title}](${url})'
           ensure_all: true
       - name: push to master
         if: steps.feed.outputs.changed == true
