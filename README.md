@@ -40,11 +40,11 @@ I have been enjoying problem solving and developing, and creating something!
 
 **Latest Blog Posts**
 <!-- feed start -->
+- 2022/04/19 - [[PyTorch] Tensor, NumPy, Pandas 타입 표](https://blog.joonas.io/204)
 - 2022/04/15 - [[Java/JavaDoc] @see, @inheritDoc](https://blog.joonas.io/203)
 - 2022/04/11 - [[JAVA] 싱글톤 패턴 (Singleton Pattern)](https://blog.joonas.io/202)
 - 2022/04/08 - [[ML/Sklearn] ROC Curve visualization](https://blog.joonas.io/201)
 - 2022/04/05 - [Euler to Quaternion, Quaternion to Euler](https://blog.joonas.io/200)
-- 2022/04/02 - [[코딩으로 풀어보기] 문제적남자 107화 - 1부터 9까지의 숫자를 한 번씩 사용해서 올바른 식 만들기](https://blog.joonas.io/199)
 <!-- feed end -->
 
 
