@@ -40,11 +40,11 @@ I have been enjoying problem solving and developing, and creating something!
 
 **Latest Blog Posts**
 <!-- feed start -->
+- 2022/04/24 - [BOJ Extended를 만들고 1년이 지났다.](https://blog.joonas.io/207)
 - 2022/04/23 - [Loss 또는 모델 output이 NaN인 경우 확인해볼 것](https://blog.joonas.io/206)
 - 2022/04/21 - [[부동산 가격 예측] LightGBM에서 DNN Regression으로](https://blog.joonas.io/205)
 - 2022/04/19 - [[PyTorch] Tensor, NumPy, Pandas 타입 표](https://blog.joonas.io/204)
 - 2022/04/15 - [[Java/JavaDoc] @see, @inheritDoc](https://blog.joonas.io/203)
-- 2022/04/11 - [[JAVA] 싱글톤 패턴 (Singleton Pattern)](https://blog.joonas.io/202)
 <!-- feed end -->
 
 
