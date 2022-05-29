@@ -40,11 +40,11 @@ I have been enjoying problem solving and developing, and creating something!
 
 **Latest Blog Posts**
 <!-- feed start -->
+- 2022/05/29 - [[ML] 사이킷런(scikit-learn) 클러스터링 비교](https://blog.joonas.io/212)
 - 2022/05/20 - [[코딩으로 풀어보기] 문제적 남자 4화 - (9, 9, 9, 9, 9, 9)으로 100 만들기](https://blog.joonas.io/211)
 - 2022/05/18 - [Content-based File Format Detection (파일 확장자 예측)](https://blog.joonas.io/210)
 - 2022/04/29 - [[Linux/Ubuntu] End-of-central-directory signature not found.](https://blog.joonas.io/209)
 - 2022/04/25 - [[PyTorch] GPU 메모리가 부족할 때 확인할 내용들](https://blog.joonas.io/208)
-- 2022/04/24 - [BOJ Extended를 만들고 1년이 지났다.](https://blog.joonas.io/207)
 <!-- feed end -->
 
 
