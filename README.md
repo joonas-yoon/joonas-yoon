@@ -40,11 +40,11 @@ I have been enjoying problem solving and developing, and creating something!
 
 **Latest Blog Posts**
 <!-- feed start -->
+- 2022/06/03 - [[딥러닝 일지] Auto Encoder (with MNIST)](https://blog.joonas.io/215)
 - 2022/05/30 - [[PyTorch] RuntimeError: DataLoader worker is killed by signal: Bus error.](https://blog.joonas.io/214)
 - 2022/05/30 - [[PyTorch] AssertionError: Torch not compiled with CUDA enabled](https://blog.joonas.io/213)
 - 2022/05/29 - [[ML] 사이킷런(scikit-learn) 클러스터링 비교](https://blog.joonas.io/212)
 - 2022/05/20 - [[코딩으로 풀어보기] 문제적 남자 4화 - (9, 9, 9, 9, 9, 9)으로 100 만들기](https://blog.joonas.io/211)
-- 2022/05/18 - [Content-based File Format Detection (파일 확장자 예측)](https://blog.joonas.io/210)
 <!-- feed end -->
 
 
