@@ -40,11 +40,11 @@ I have been enjoying problem solving and developing, and creating something!
 
 **Latest Blog Posts**
 <!-- feed start -->
+- 2022/06/24 - [이미지들의 평균 그리기](https://blog.joonas.io/223)
 - 2022/06/15 - [티스토리 기본형 #2 커스텀 스킨](https://blog.joonas.io/220)
 - 2022/06/12 - [[딥러닝 일지] WGAN-GP (Gradient Penalty)](https://blog.joonas.io/219)
 - 2022/06/11 - [[딥러닝 일지] WGAN (Wasserstein GAN)](https://blog.joonas.io/218)
 - 2022/06/08 - [[딥러닝 일지] PyTorch로 DCGAN 훈련해보기](https://blog.joonas.io/217)
-- 2022/06/05 - [[딥러닝 일지] VAE; Variational Auto Encoder](https://blog.joonas.io/216)
 <!-- feed end -->
 
 
