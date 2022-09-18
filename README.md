@@ -40,11 +40,11 @@ I have been enjoying problem solving and developing, and creating something!
 
 **Latest Blog Posts**
 <!-- feed start -->
+- 2022/09/18 - [[FastAPI + React] 소셜 로그인 구현하기 - 구글 로그인](https://blog.joonas.io/229)
 - 2022/09/16 - [[FastAPI + React] 소셜 로그인 구현하기 - 이메일 로그인](https://blog.joonas.io/228)
 - 2022/09/13 - [[FastAPI + React] 소셜 로그인 구현하기 - 기본 환경 구축](https://blog.joonas.io/227)
 - 2022/08/06 - [[git] 새로운 루트 브랜치 만들기 (이전 히스토리가 없는)](https://blog.joonas.io/226)
 - 2022/07/27 - [[JUnit5] Lifecycle 호출 순서](https://blog.joonas.io/225)
-- 2022/06/24 - [이미지들의 평균 그리기](https://blog.joonas.io/223)
 <!-- feed end -->
 
 
