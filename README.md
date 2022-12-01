@@ -40,11 +40,11 @@ I have been enjoying problem solving and developing, and creating something!
 
 **Latest Blog Posts**
 <!-- feed start -->
+- 2022/12/01 - [설치된 python의 지원 가능한 platform 확인](https://blog.joonas.io/233)
 - 2022/10/05 - [HTMLElement.innerText가 가져온 성능 저하 살펴보기](https://blog.joonas.io/232)
 - 2022/09/24 - [[Beanie + PyTest] CollectionWasNotInitialized 오류](https://blog.joonas.io/231)
 - 2022/09/20 - [[FastAPI + React] 소셜 로그인 구현하기 - 커스텀 로그인 (feat. 카카오)](https://blog.joonas.io/230)
 - 2022/09/18 - [[FastAPI + React] 소셜 로그인 구현하기 - 구글 로그인](https://blog.joonas.io/229)
-- 2022/09/16 - [[FastAPI + React] 소셜 로그인 구현하기 - 이메일 로그인](https://blog.joonas.io/228)
 <!-- feed end -->
 
 
