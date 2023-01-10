@@ -32,11 +32,13 @@ I have been enjoying problem solving and developing, and creating something!
 [![BOJ tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=joonas)](https://www.acmicpc.net/user/joonas)
 [![LeetCode user joonas-yoon](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=LeetCode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjoonas-yoon&logo=leetcode&logoColor=yellow)](https://leetcode.com/joonas-yoon/) 
 
-**Thanks**
+**Open Source Contributions**
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/joonas)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)](https://paypal.me/JoonaYoon)
-
+- 🌐 [gfxfundamentals/webgl2-fundamentals](https://github.com/gfxfundamentals/webgl2-fundamentals) - Translation
+- 🌐 [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - Translation/sync with main
+- 🌐 [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - Very nightly version of korean
+- 🧙 [frankie567/httpx-oauth](https://github.com/frankie567/httpx-oauth) - OAuth 2.0 for Kakao/NAVER
+- 🧙 [mazassumnida/mazandi](https://github.com/mazassumnida/mazandi) - Random Generation, Dark theme
 
 **Latest Blog Posts**
 <!-- feed start -->
