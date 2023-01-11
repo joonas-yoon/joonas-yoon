@@ -40,6 +40,13 @@ I have been enjoying problem solving and developing, and creating something!
 - 🧙 [frankie567/httpx-oauth](https://github.com/frankie567/httpx-oauth) - OAuth 2.0 for Kakao/NAVER
 - 🧙 [mazassumnida/mazandi](https://github.com/mazassumnida/mazandi) - Random Generation, Dark theme
 
+**Toy Projects**
+
+- 🎨 [boj-extended](https://github.com/joonas-yoon/boj-extended) - Styling extension for BOJ
+- 🗃️ [json-as-db](https://github.com/joonas-yoon/json-as-db) - Using JSON as database
+- 📻 [speech-translator](https://github.com/joonas-yoon/speech-translator) (end of service) - Speech Translator with Browser Audio API
+- [and more ...](https://www.joonas.io/#apps)
+
 **Latest Blog Posts**
 <!-- feed start -->
 - 2023년/1월/11일 - [VSCode에서 Python 버전 변경하기](https://blog.joonas.io/235)
