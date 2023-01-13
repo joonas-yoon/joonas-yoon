@@ -49,11 +49,11 @@ I have been enjoying problem solving and developing, and creating something!
 
 **Latest Blog Posts**
 <!-- feed start -->
+- 2023년/1월/13일 - [[강화학습 일지] DQN Tutorial 살펴보기](https://blog.joonas.io/236)
 - 2023년/1월/11일 - [VSCode에서 Python 버전 변경하기](https://blog.joonas.io/235)
 - 2023년/1월/7일 - [아나콘다(Anaconda) 없이 가상환경 세팅하기](https://blog.joonas.io/234)
 - 2022년/12월/1일 - [설치된 python의 지원 가능한 platform 확인](https://blog.joonas.io/233)
 - 2022년/10월/5일 - [HTMLElement.innerText가 가져온 성능 저하 살펴보기](https://blog.joonas.io/232)
-- 2022년/9월/24일 - [[Beanie + PyTest] CollectionWasNotInitialized 오류](https://blog.joonas.io/231)
 <!-- feed end -->
 
 
