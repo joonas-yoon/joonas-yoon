@@ -49,11 +49,11 @@ I have been enjoying problem solving and developing, and creating something!
 
 **Latest Blog Posts**
 <!-- feed start -->
+- 2023년/1월/27일 - [함수의 실행 속도 측정하기](https://blog.joonas.io/239)
+- 2023년/1월/27일 - [[파이썬 패키지] 설치 없이 가벼운 데이터베이스 (json-as-db; JAD)](https://blog.joonas.io/238)
 - 2023년/1월/18일 - [Windows 10 - 시스템 오류 1219 해결 방법](https://blog.joonas.io/237)
 - 2023년/1월/13일 - [[강화학습 일지] DQN Tutorial 살펴보기](https://blog.joonas.io/236)
 - 2023년/1월/11일 - [VSCode에서 Python 버전 변경하기](https://blog.joonas.io/235)
-- 2023년/1월/7일 - [아나콘다(Anaconda) 없이 가상환경 세팅하기](https://blog.joonas.io/234)
-- 2022년/12월/1일 - [설치된 python의 지원 가능한 platform 확인](https://blog.joonas.io/233)
 <!-- feed end -->
 
 
