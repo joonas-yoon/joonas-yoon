@@ -49,11 +49,11 @@ I have been enjoying problem solving and developing, and creating something!
 
 **Latest Blog Posts**
 <!-- feed start -->
-- 2023년/3월/11일 - [[강화학습 메모] Proximal Policy Optimization (PPO, 2017)](https://blog.joonas.io/243)
-- 2023년/3월/10일 - [[강화학습 메모] A3C (Asynchronous A2C, 2016)](https://blog.joonas.io/242)
-- 2023년/2월/1일 - [행렬식(determinant) 알아보기](https://blog.joonas.io/241)
-- 2023년/1월/29일 - [Android Studio 깨끗하게 정리하기](https://blog.joonas.io/240)
-- 2023년/1월/27일 - [[Python] 함수의 실행 속도 측정하기](https://blog.joonas.io/239)
+- 2023년/5월/16일 - [SOLID 원칙 - Dependency Inversion Principle (DIP; 의존관계 역전 원칙)](https://blog.joonas.io/248)
+- 2023년/5월/16일 - [SOLID 원칙 - Interface Segregation Principle (ISP; 인터페이스 분리 원칙)](https://blog.joonas.io/247)
+- 2023년/5월/16일 - [SOLID 원칙 - Liskov Substitution principle (LSP; 리스코프 치환 원칙)](https://blog.joonas.io/246)
+- 2023년/5월/16일 - [SOLID 원칙 - Open/Closed Principle (OCP; 개방-폐쇄 원칙)](https://blog.joonas.io/245)
+- 2023년/5월/16일 - [SOLID 원칙 - Single Responsibility Principle (SRP; 단일 책임 원칙)](https://blog.joonas.io/244)
 <!-- feed end -->
 
 
