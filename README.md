@@ -49,11 +49,11 @@ I have been enjoying problem solving and developing, and creating something!
 
 **Latest Blog Posts**
 <!-- feed start -->
+- 2023년/6월/1일 - [지난 5년간의 블로그 회고](https://blog.joonas.io/250)
 - 2023년/5월/17일 - [npm deploy 할 때 Failed to get remote.origin.url 오류 해결 방법](https://blog.joonas.io/249)
 - 2023년/5월/16일 - [SOLID 원칙 - Dependency Inversion Principle (DIP; 의존관계 역전 원칙)](https://blog.joonas.io/248)
 - 2023년/5월/16일 - [SOLID 원칙 - Interface Segregation Principle (ISP; 인터페이스 분리 원칙)](https://blog.joonas.io/247)
 - 2023년/5월/16일 - [SOLID 원칙 - Liskov Substitution principle (LSP; 리스코프 치환 원칙)](https://blog.joonas.io/246)
-- 2023년/5월/16일 - [SOLID 원칙 - Open/Closed Principle (OCP; 개방-폐쇄 원칙)](https://blog.joonas.io/245)
 <!-- feed end -->
 
 
