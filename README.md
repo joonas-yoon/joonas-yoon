@@ -49,7 +49,7 @@ I have been enjoying problem solving and developing, and creating something!
 
 **Latest Blog Posts**
 <!-- feed start -->
-- 2023년/8월/14일 - [All about git - 충돌을 해결하는 원리와 방법](https://blog.joonas.io/254)
+- 2023년/8월/14일 - [All about git - 충돌(conflict)과 merge/rebase 쉽게 이해하기](https://blog.joonas.io/254)
 - 2023년/7월/15일 - [All about git - 상태(status) 관리하기](https://blog.joonas.io/253)
 - 2023년/7월/13일 - [All about git - 핵심 개념 정리](https://blog.joonas.io/252)
 - 2023년/7월/5일 - [logit vs. sigmoid vs. softmax](https://blog.joonas.io/251)
