@@ -6,7 +6,7 @@
   </a>
 </div>
 
-### _Hi,_ I'm Joonas. 👋
+### [_Hi, I'm Joonas. 👋_](#)
 
 I have been enjoying problem solving and developing, and creating something!
 
