@@ -49,11 +49,11 @@ I have been enjoying problem solving and developing, and creating something!
 
 **Latest Blog Posts**
 <!-- feed start -->
+- 2024년/1월/17일 - [눈코입 맞추기 게임 만들기 1편](https://blog.joonas.io/257)
 - 2023년/9월/22일 - [기사 작위(Knighthood)를 받았다](https://blog.joonas.io/256)
 - 2023년/8월/20일 - [All about git - 원격 저장소와 작업하는 법(fetch/push/pull)](https://blog.joonas.io/255)
 - 2023년/8월/14일 - [All about git - 충돌(conflict)과 merge/rebase 쉽게 이해하기](https://blog.joonas.io/254)
 - 2023년/7월/15일 - [All about git - 상태(status) 관리하기](https://blog.joonas.io/253)
-- 2023년/7월/13일 - [All about git - 핵심 개념 정리](https://blog.joonas.io/252)
 <!-- feed end -->
 
 
