@@ -17,7 +17,7 @@ I have been enjoying problem solving and developing, and creating something!
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)](https://joonas-yoon.slack.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/channels/1038687194648412160/1067864326406422669)
 [![SOF](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13677554/joona-yoon)
-[![kaggle](https://img.shields.io/badge/kaggle-20beff?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/joonasyoon)
+[![kaggle](https://img.shields.io/badge/kaggle%7CExpert-20beff?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/joonasyoon)
 [![GitHub User's stars](https://img.shields.io/github/stars/joonas-yoon?color=fafa2f&logo=github)](#)
 [![GitHub followers](https://img.shields.io/github/followers/joonas-yoon?logo=github)](#)
 
