@@ -49,11 +49,11 @@ I have been enjoying problem solving and developing, and creating something!
 
 **Latest Blog Posts**
 <!-- feed start -->
+- 2024년/3월/3일 - [한국 가요(1964~2023)를 주제별로 모아보기](https://blog.joonas.io/263)
 - 2024년/2월/7일 - [블로그 포스트 읽는 시간 예측하기](https://blog.joonas.io/262)
 - 2024년/1월/30일 - [노래 가사의 반복도를 계산할 수 있을까?](https://blog.joonas.io/261)
 - 2024년/1월/26일 - [한국 노래 가사(1964~2023년) 데이터 분석해보기](https://blog.joonas.io/260)
 - 2024년/1월/20일 - [눈코입 맞추기 게임 만들기 3편](https://blog.joonas.io/259)
-- 2024년/1월/19일 - [눈코입 맞추기 게임 만들기 2편](https://blog.joonas.io/258)
 <!-- feed end -->
 
 
