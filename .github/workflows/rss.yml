@@ -2,10 +2,9 @@ name: blog
 
 on:
   schedule:
-    - cron: '0 */12 * * *'
+    - cron: "0 */12 * * *"
   push:
-    branches: [ master ]
-  workflow_dispatch:
+    branches: [master]
 
 jobs:
   rss:
@@ -14,19 +13,14 @@ jobs:
       changed: ${{ steps.feed.outputs.changed }}
       items: ${{ steps.feed.outputs.items }}
     steps:
-      - uses: actions/checkout@v2
-      - uses: sarisia/actions-readme-feed@v1
+      - uses: actions/checkout@v3
+      - name: Fetch rss
         id: feed
-        with:
-          url: 'https://blog.joonas.io/rss'
-          file: 'README.md'
-          locale: 'ko-KR'
-          timezone: 'Asia/Seoul'
-          format: '- ${year}/${02month}/${02day} - [${title}](${url})'
-          ensure_all: true
-      - name: push to master
-        if: steps.feed.outputs.changed == true
-        id: commit
-        uses: sarisia/actions-commit@master
-        with:
-          message: "docs: update feed"
+        run: |
+          pip install requests
+          python rss/run.py
+      - run: git config --global user.email "noreply@github.com"
+      - run: git config --global user.name "[bot] rss"
+      - run: git add README.md
+      - run: git commit --message 'update posts by rss'
+      - run: git push
