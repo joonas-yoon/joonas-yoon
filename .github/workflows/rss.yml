@@ -21,6 +21,6 @@ jobs:
           python rss/run.py
       - run: git config --global user.email "noreply@github.com"
       - run: git config --global user.name "[bot] rss"
+      - run: git diff > .diff
       - run: git add README.md
-      - run: git commit --message 'update posts by rss'
-      - run: git push
+      - run: [ -s .diff ] && git commit -m 'update posts by rss' && git push || echo "No changes"
