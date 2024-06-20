@@ -49,11 +49,11 @@ I have been enjoying problem solving and developing, and creating something!
 
 **Latest Blog Posts**
 <!-- feed start -->
+* 2024/06/20 - [git network connection 오류 추적하기](https://blog.joonas.io/267)
 * 2024/05/26 - [Quick, Draw! 클론 코딩 해보기](https://blog.joonas.io/266)
 * 2024/04/07 - [git push 시 RPC failed; HTTP 400 해결법](https://blog.joonas.io/264)
 * 2024/03/03 - [한국 가요(1964~2023)를 주제별로 모아보기](https://blog.joonas.io/263)
 * 2024/02/07 - [블로그 포스트 읽는 시간 예측하기](https://blog.joonas.io/262)
-* 2024/01/30 - [노래 가사의 반복도를 계산할 수 있을까?](https://blog.joonas.io/261)
 <!-- feed end -->
 
 
