@@ -32,6 +32,15 @@ I have been enjoying problem solving and developing, and creating something!
 [![BOJ tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=joonas)](https://www.acmicpc.net/user/joonas)
 [![LeetCode user joonas-yoon](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=LeetCode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjoonas-yoon&logo=leetcode&logoColor=yellow)](https://leetcode.com/joonas-yoon/) 
 
+**Projects**
+
+- 🎨 [boj-extended](https://github.com/joonas-yoon/boj-extended) - Styling extension for BOJ
+- 🗃️ [json-as-db](https://github.com/joonas-yoon/json-as-db) - Using JSON as database
+- 📻 [speech-translator](https://github.com/joonas-yoon/speech-translator) (end of service) - Speech Translator with Browser Audio API
+- 🧩 [face-quiz](https://github.com/joonas-yoon/face-quiz) - Face Puzzled Quiz by human face recognition on web
+- 🤖 [quick-draw-clone](https://github.com/joonas-yoon/quick-draw-clone) - Clone web-application of Google Quick, Draw! from scratch
+- [and more ...](https://www.joonas.io/#apps)
+
 **Open Source Contributions**
 
 - 🌐 [gfxfundamentals/webgl2-fundamentals](https://github.com/gfxfundamentals/webgl2-fundamentals) - Translation
@@ -39,13 +48,6 @@ I have been enjoying problem solving and developing, and creating something!
 - 🌐 [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - Very nightly version of korean
 - 🧙 [frankie567/httpx-oauth](https://github.com/frankie567/httpx-oauth) - OAuth 2.0 for Kakao/NAVER
 - 🧙 [mazassumnida/mazandi](https://github.com/mazassumnida/mazandi) - Random Generation, Dark theme
-
-**Toy Projects**
-
-- 🎨 [boj-extended](https://github.com/joonas-yoon/boj-extended) - Styling extension for BOJ
-- 🗃️ [json-as-db](https://github.com/joonas-yoon/json-as-db) - Using JSON as database
-- 📻 [speech-translator](https://github.com/joonas-yoon/speech-translator) (end of service) - Speech Translator with Browser Audio API
-- [and more ...](https://www.joonas.io/#apps)
 
 **Latest Blog Posts**
 <!-- feed start -->
