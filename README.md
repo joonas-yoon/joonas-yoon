@@ -51,11 +51,11 @@ I have been enjoying problem solving and developing, and creating something!
 
 **Latest Blog Posts**
 <!-- feed start -->
+* 2024/08/26 - [[Browser] pageX/screenX/clientX/offsetX 비교](https://blog.joonas.io/270)
 * 2024/08/10 - [[Ubuntu] 디스크 용량이 남았는데 No space left 오류인 경우](https://blog.joonas.io/269)
 * 2024/07/31 - [Java의 instanceof 결과 정리](https://blog.joonas.io/268)
 * 2024/06/20 - [git network connection 오류 추적하기](https://blog.joonas.io/267)
 * 2024/05/26 - [Quick, Draw! 클론 코딩 해보기](https://blog.joonas.io/266)
-* 2024/04/07 - [git push 시 RPC failed; HTTP 400 해결법](https://blog.joonas.io/264)
 <!-- feed end -->
 
 
