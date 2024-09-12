@@ -51,11 +51,11 @@ I have been enjoying problem solving and developing, and creating something!
 
 **Latest Blog Posts**
 <!-- feed start -->
+* 2024/09/12 - [git hook 설정할 때 scp connection 오류 해결법](https://blog.joonas.io/272)
 * 2024/09/04 - [git push 할 때 TLS certificate verification 생략하기](https://blog.joonas.io/271)
 * 2024/08/26 - [[Browser] pageX/screenX/clientX/offsetX 비교](https://blog.joonas.io/270)
 * 2024/08/10 - [[Ubuntu] 디스크 용량이 남았는데 No space left 오류인 경우](https://blog.joonas.io/269)
 * 2024/07/31 - [Java의 instanceof 결과 정리](https://blog.joonas.io/268)
-* 2024/06/20 - [git network connection 오류 추적하기](https://blog.joonas.io/267)
 <!-- feed end -->
 
 
