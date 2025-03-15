@@ -24,11 +24,11 @@ I have been enjoying problem solving and developing, and creating something!
 **Technicals**
 
 [![react](https://img.shields.io/badge/ReactJS-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](#)
-[![ES6](https://img.shields.io/badge/ES6-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](#)
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)](#)
+[![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)](#)
 [![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl)](#)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 [![pytorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)](#)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)](#)
 [![BOJ tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=joonas)](https://www.acmicpc.net/user/joonas)
 [![LeetCode user joonas-yoon](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=LeetCode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjoonas-yoon&logo=leetcode&logoColor=yellow)](https://leetcode.com/joonas-yoon/) 
 
