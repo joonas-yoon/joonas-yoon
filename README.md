@@ -51,11 +51,11 @@ I have been enjoying problem solving and developing, and creating something!
 
 **Latest Blog Posts**
 <!-- feed start -->
+* 2025/03/30 - [로또가 의심돼! (feat. 당첨 숫자가 하나도 없을 확률)](https://blog.joonas.io/275)
 * 2025/03/21 - [[Windows 10] pytorch3d 설치 중 트러블 슈팅](https://blog.joonas.io/274)
 * 2025/03/09 - [사과 게임 헬퍼 만들어보기](https://blog.joonas.io/273)
 * 2024/09/12 - [git hook 설정할 때 scp connection 오류 해결법](https://blog.joonas.io/272)
 * 2024/09/04 - [git push 할 때 TLS certificate verification 생략하기](https://blog.joonas.io/271)
-* 2024/08/26 - [[Browser] pageX/screenX/clientX/offsetX 비교](https://blog.joonas.io/270)
 <!-- feed end -->
 
 
