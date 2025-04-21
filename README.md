@@ -1,4 +1,4 @@
-[![About me](https://img.shields.io/badge/joonas.io-394f35?style=flat&link=https://www.joonas.io)](https://www.joonas.io) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoonas-yoon%2Fhit-counter)](https://hits.seeyoufarm.com)
+[![About me](https://img.shields.io/badge/joonas.io-394f35?style=flat&link=https://www.joonas.io)](https://www.joonas.io) [![github-profile-views](https://komarev.com/ghpvc/?username=joonas-yoon&color=1E90FF&style=flat&label=Profile+Views)](#)
 
 <div align="center">
   <a href="http://joonas.io">
