@@ -51,7 +51,7 @@ I have been enjoying problem solving and developing, and creating something!
 
 **Latest Blog Posts**
 <!-- feed start -->
-* 2026/05/25 - [다가온 인공지능 시대에 대한 블로거의 감상](https://blog.joonas.io/279)
+* 2026/05/25 - [다가온 인공지능 시대에 대한 블로거의 단상](https://blog.joonas.io/279)
 * 2025/11/03 - [nvidia-smi 명령어 정리](https://blog.joonas.io/278)
 * 2025/04/16 - [FormData 전송할 때 fetch vs. axios](https://blog.joonas.io/277)
 * 2025/04/15 - [[React] useDeepMemo](https://blog.joonas.io/276)
